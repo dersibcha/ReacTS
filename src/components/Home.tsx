@@ -9,6 +9,8 @@ const Home: React.FC = () => (
         </p>
         <StyledLink link='/params/42' label='Params Router' />
         <StyledLink link='/statetochildren' label='State and Props to Children' />
+        <StyledLink link='/userefhook' label='useRef Hook' />
+        <StyledLink link='/genericcomponent' label='Generic component' />
       </header>
     </div>
 );
